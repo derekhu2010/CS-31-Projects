@@ -15,7 +15,7 @@ In the second part of the project, a document is given in the form of a C-string
 
 The focus of this project was to learn how to manipulate and traverse arrays smoothly and to edit their data properly. One particular challenge was formatting and editing the given document so that it contained only words separated by one space so that it could be properly “rated.”
 
-ZOMBIES
+ZOMBIES "\n"
 This project is a game where a player is placed into an arena of zombies. The player and zombies alternate turns moving either up, down, left, or right. If a player is next to a zombie and moves in the direction of an adjacent zombie, that zombie is attacked. When a zombie is attacked, it loses one point and is moved one space in the direction is was attacked. If a zombie is hit twice or moves into a wall after getting hit once, it dies (hitting the wall serves as a second hit to the zombie). If a zombie moves onto the same space as the player when it is the zombies’ turn to move, the player dies.
 
 The purpose of this project was creating multiple classes (e.g. zombie, player, arena, and game) and having them successfully interact with each other to create a game.
