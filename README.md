@@ -1,5 +1,5 @@
 # CS-31-Projects
-These are some of the projects I coded in my Com Sci 31- Introduction to Computer Science class at UCLA. Below I will include a short description of each project.
+These are some of the projects I coded in my Com Sci 31- Introduction to Computer Science class at UCLA. Below I will include a short description of each project. If you are a student enrolled in CS 31, do not directly copy from any code as it will result in violation of the academic honesty policies of this class.
 
 POLL
 
